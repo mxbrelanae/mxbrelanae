@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bre! My pronouns are They/Them
-- 👀 I’m a software engineering breaking into AR/VR software development!
+- 👀 I’m a software engineer breaking into AR/VR software development!
 - 🌱 I’m currently learning Javascript, Python and C#
 - 💞️ I’m looking to collaborate on anything that will help me gain knowledge
 
